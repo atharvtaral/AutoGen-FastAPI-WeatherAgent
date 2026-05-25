@@ -1,4 +1,4 @@
-# 🌤️ AutoGen-FastAPI-WeatherAgent
+# 🌤️ AutoGen-FastAPI-Weather-AI-Agent
 
 An autonomous, production-ready, full-stack AI Agent application designed to fetch real-time weather data based on dynamic user queries. This project marks the beginning of my journey into the ecosystem of **Agentic AI**, utilizing a decoupled architecture with a FastAPI backend and a Streamlit frontend.
 
