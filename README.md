@@ -33,7 +33,7 @@ Here is how the application workflow operates seamlessly between the Streamlit u
 ### 1. Streamlit Interface & Agent Response
 This screen demonstrates the end-user chat interface where the agent intelligently processes queries and returns structured weather parameters.
 
-![Streamlit Interface Output](./oputput%201.PNG)
+![Streamlit Interface Output](./output%201.PNG)
 
 ### 2. FastAPI Backend & Agentic Reasoning Log
 This screen captures the backend execution flow, showcasing how the Microsoft AutoGen agent invokes the custom tools and logs reasoning streams.
