@@ -23,6 +23,23 @@ An autonomous, production-ready, full-stack AI Agent application designed to fet
 * **Data Validation:** Pydantic
 * **Environment Management:** Python-dotenv
 
+
+---
+
+## 📸 Application Screenshots & Output
+
+Here is how the application workflow operates seamlessly between the Streamlit user interface and the autonomous AutoGen backend:
+
+### 1. Streamlit Interface & Agent Response
+This screen demonstrates the end-user chat interface where the agent intelligently processes queries and returns structured weather parameters.
+
+![Streamlit Interface Output](./oputput%201.PNG)
+
+### 2. FastAPI Backend & Agentic Reasoning Log
+This screen captures the backend execution flow, showcasing how the Microsoft AutoGen agent invokes the custom tools and logs reasoning streams.
+
+![FastAPI Backend Logs](./output%202.PNG)
+
 ---
 
 ## 📁 Project Structure
